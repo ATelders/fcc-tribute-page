@@ -1,0 +1,57 @@
+body {
+  font-family: monospace;
+  background: #000000;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 35px;
+}
+p {
+  font-size: 15px;
+}
+  
+#title {
+  margin: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+#tribute-info{
+  border: 1px solid #FFF;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  max-width: 70%;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(255,255,255,0.19), 0 6px 6px rgba(255,255,255,0.23);
+  
+}
+
+#img-caption {
+  font-style: italic;
+}
+
+#tribute-link {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tribute-info-p {
+  text-align: justify;
+}
